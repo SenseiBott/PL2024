@@ -22,7 +22,7 @@ Esta função converte texto em negrito Markdown em texto em negrito HTML.
 
 ### `convertBlockquote(markdown)`
 
-Esta função converte citações Markdown em elementos de bloco HTML correspondentes.
+Esta função converte citações Markdown em citações de bloco HTML correspondentes.
 
 ### `convertLists(markdown)`
 
